@@ -48,7 +48,7 @@ Almost 100%, but still need to fix.
 1. **macOS Tahoe 26.x.**
 2. **[OCLP-CustoMac](https://github.com/kgp-macPro/OCLP-CustoMac)** — the fork. Apply both the
    **Modern Wi-Fi** and **Modern Audio** root patches after installing.
-   Modern Audio needs a Kernel Debug Kit, which needs working networking — so get Wi-Fi up
+   Modern Audio needs a Kernel Debug Kit, which needs working networking — so get Wi-Fi (Or get an iPhone for network) up
    first, then tick Modern Audio and press *Start Root Patching*.
 ---
 
