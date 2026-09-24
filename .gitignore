@@ -1,0 +1,12 @@
+# macOS metadata
+.DS_Store
+._*
+.localized
+
+# build leftovers
+config.plist.orig-backup
+*.bak
+*.bak-*
+*.orig
+*~
+*.log
