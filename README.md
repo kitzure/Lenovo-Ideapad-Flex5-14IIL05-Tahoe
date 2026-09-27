@@ -40,6 +40,7 @@ Almost 100%, but still need to fix.
 | AirDrop / Continuity | ✅ | Comes with the restored Apple wireless stack. |
 | HDMI output | ❌ | Ice Lake has no working external display path on macOS — no fix exists. |
 | SD card reader | ❓ | Not tested. |
+| Fingerprint sensor | ❌ | never worked. |
 
 ---
 
@@ -54,7 +55,8 @@ Almost 100%, but still need to fix.
 
 ## Known issues
 
-* **Wi-Fi/ Bluetooth** — sometimes it disconnects for a while, still useable since DW1820A kinda suck tbh, planning to switch to another one
+* **Wi-Fi/ Bluetooth** — no idea is my wifi card is messed up or not, sometimes bluetooth might disconnects. also 5G wifi sometime will disconnects, make 2.4G or MLO if possible.
+* **Audio** — headphone jack is being weird but it works though. still need to check microphone is working by chaning the ALC
 * **HDMI** — no external display output on Ice Lake under macOS. Unfixed since 2021 in the Ice
   Lake hackintosh trackers. A USB-C DisplayLink adapter is the practical workaround.
 * **Performance** — 8 GB of soldered RAM on a 15 W quad-core is the floor for Tahoe. Expect
